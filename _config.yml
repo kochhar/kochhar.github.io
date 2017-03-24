@@ -8,8 +8,8 @@ relative_permalinks: false
 title:               "Shailesh's Blog"
 tagline:             'A simple place'
 description:         'A simple place for some thoughts.'
-url:                 https://kochhar.github.io/
-baseurl:             ''
+url:                 'https://kochhar.github.io/'
+baseurl:             'https://kochhar.github.io/'
 paginate:            5
 
 # About/contact
@@ -20,4 +20,3 @@ author:
 
 # Custom vars
 version:             0.1.0
-
