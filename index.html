@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
+<h1>Blog Posts</h1>
 <div class="posts">
   {% for post in paginator.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}/{{ post.url }}"></li>
+  <!--
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}/{{ post.url }}">
@@ -16,6 +20,7 @@ title: Home
 
     {{ post.content }}
   </div>
+  -->
   {% endfor %}
 </div>
 
@@ -36,3 +41,12 @@ title: Home
   {% endif %}
 </div>
 
+<h1>Highlighted Media</h1>
+<div class="posts">
+  <li><span>DD mmm YYYY</span> &raquo; <a href="http://www.wired.co.uk/article/phil-rosenzweig">Article: WIRED - Phil Rosenzweig: 'entrepreneurs need two brains -- one left, one right'</a></li>
+</div>
+
+<h1>Other Talks, Papers etc</h1>
+<div class="posts">
+  <li><span>08 Jul 2010</span> &raquo; <a href="http://dl.acm.org/citation.cfm?id=1837890">The anaotmy of a large-scale human computation engine</a></li>
+</div>
