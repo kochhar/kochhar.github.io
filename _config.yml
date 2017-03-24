@@ -19,10 +19,5 @@ author:
   email:             shailesh.kochhar@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             0.1.0
 
-nav_pages:
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
-  
