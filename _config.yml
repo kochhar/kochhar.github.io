@@ -9,7 +9,7 @@ title:               "Shailesh's Blog"
 tagline:             'A simple place'
 description:         'A simple place for some thoughts.'
 url:                 'https://kochhar.github.io/'
-baseurl:             'https://kochhar.github.io/'
+baseurl:             'https://kochhar.github.io'
 paginate:            5
 
 # About/contact
