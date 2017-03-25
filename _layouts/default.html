@@ -24,8 +24,9 @@
       </div>
     </div>
 
+    {% include comments.html %}
+    
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
     <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
@@ -43,6 +44,7 @@
         }, false);
       })(document);
     </script>
+    
     {% if page.comments %}
     <script id="dsq-count-scr" src="//kochhargh.disqus.com/count.js" async></script>
     {% endif %}
