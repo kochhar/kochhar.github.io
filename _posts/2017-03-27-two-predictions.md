@@ -22,30 +22,34 @@ nation(??) and award digital residence to people across the world. A possible fi
 state. Hypothetical.
 
 A new war between technology and politics is inevitable. Allow me to to backtrack a bit.
-Humans have been held together by the bonds of three forces. Money, Religion & Power. Money is a
-miracle, creating value seemingly out of nothing. Religion answers the call of mystery. And power
-fills our need for authority. This trifecta allows us to continue leading peaceful lives all
+Humans have been held together by the bonds of three forces. Money, Religion & the State. Money is a
+miracle, creating value seemingly out of nothing. Religion answers the call of mystery. Finally, the
+state fills our need for authority. This trifecta allows us to continue leading peaceful lives all
 knowing that life itself has no ultimate purpose except self-preservation.
 
 Science came to dominate commerce quickly. Technology became the comepetitive advantage of
 businesses since the first wheels and levers. Science became the miracle worker, business the money
-earner. Science then fought a bloody, pitched battle against religion for the throne of mystery.
-Bloody, bruised and battered they shared the spoils with religion providing miracles for the world's
-poorest.
+earner. In the middle-part of the last millennium, Science fought a brutal, pitched battle against
+religion for the throne of mystery. Bloody, bruised and battered they shared the spoils with
+religion getting to provide miracles for the world's poorest who couldn't afford the magic of
+science.
 
 Technology now has but one foe left to defeat to complete the trifecta and become a supreme god.
 Perhpas then we may reach unity. The unifying principle. There is a generation of technologists and
-entreprenurs at work on this. Building replacements. Building alternatives. It's may appear hard to
-find them, but they're there. Hiding in plain sight. Building their new ecosystem, their digitopia.
-With solar powered batteries sending rockets into space. With digital currency protected by
-unbreakable encryption. With decentralised distributed architecttures for tracking everything,
-shared ledgers to note and track every movement and every interaction.
+entreprenurs at work on this. Building replacements for authority. Building alternative systems.
+It may appear hard to find them, but they're there. Hiding in plain sight. Building their new
+ecosystem, their digitopia. With solar powered batteries sending rockets into space. With digital
+currency protected by unbreakable encryption. With decentralised distributed architecttures for
+tracking everything, shared ledgers to note and track every movement and every interaction with no
+one point of failure.
 
 These petabytes of logs, proprietary to the companies providing the future digital infrastructure,
 will cover the minutiae of billions of peoples lives. It'll be essential data needed to unlock more
 generalised intelligence.
 
-With sovreignity, national identity and money taken from the purview of the state the power of
-governments over their populations will weaken. Till the technologists don't have a general
-intelligence the balance of power lies with the state preventing war. Once that line is breached?
-Why don't you tell me what you think.
+With sovreignity, national identity and money taken from its purview, the power of the state over
+their populations will weaken. Technology will continue to offer alternatives short of direct
+confrontation. Till the technologists don't have a general intelligence the balance of power lies
+with the state preventing war.
+
+Once that line is breached...? Why don't _you_ tell me what you think.
