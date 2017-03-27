@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Predictions
-published: false
+published: true
 comments: true
 ---
 
