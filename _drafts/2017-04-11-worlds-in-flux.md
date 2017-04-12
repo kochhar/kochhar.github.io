@@ -4,7 +4,7 @@ title: Worlds in Flux
 published: false
 comments: true
 ---
-## Flux == Change
+## Flux equals Change
 
 May you live in interesting times -- an ancient Chinese curse, if rumor is believed. A quick check in Wikipedia reveals that, like much else attributed to the ancient Chinese, this one too is a hoax. Our times though -- most interesting. Change is in the air. Stick your nose out and get a good deep sniff. Waves of national sentiment pour out across the globe. Harnessed by opportunists and megalomaniacs alike, they peel back the dark sky on the dawn of a new age. An age of glorious national productivity and happy faces singing wholesome songs amidst sun-kissed fields. 
 
