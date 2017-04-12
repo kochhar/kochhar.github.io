@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Worlds in Flux
-published: false
+published: true
 comments: true
 tags:
   - politechs
