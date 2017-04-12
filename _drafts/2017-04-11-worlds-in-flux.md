@@ -3,6 +3,10 @@ layout: post
 title: Worlds in Flux
 published: false
 comments: true
+tags:
+  - politechs
+  - change
+  - ai
 ---
 ## Flux equals Change
 
