@@ -1,9 +1,3 @@
----
-layout: post
-title: Can You Save the Forests by Cutting Trees?
-published: true
-comments: true
----
 
 Stand up and take notice. We're being conned into becoming a community of automatic consumerists.
 Slogging our collective butts off just so we can buy shit. Shit we buy for the sake of buying it.
